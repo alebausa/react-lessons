@@ -20,6 +20,7 @@ function App() {
     {
       name: 'Marina',
       drink: 'Bitter Kas',
+      isPremium: true
     }
   ]
 
