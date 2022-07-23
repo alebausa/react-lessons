@@ -5,3 +5,23 @@ nav.nav-bar {
 section.section {
   display: flex;
 }
+
+div.counter {
+  padding: 20px;
+}
+
+div.text {
+  color: grey;
+}
+
+div.green {
+  color: green;
+}
+
+div.red {
+  color: red;
+}
+
+div.orange {
+  color: orange;
+}
